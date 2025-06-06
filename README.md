@@ -1,1 +1,2 @@
 # Notes-App
+A single-page web application developed using HTML, CSS (Flexbox & utility classes), and vanilla JavaScript. Implemented dynamic note creation with title/content inputs, along with pinning, deletion, and archiving functionalities. Used localStorage for client-side data persistence and DOM manipulation for real-time UI updates. Modularized rendering logic using ES6 modules and handled conditional rendering of pinned/archived notes for better UX.
